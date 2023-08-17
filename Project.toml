@@ -1,0 +1,13 @@
+name = "JSONParser"
+uuid = "809a77ef-5add-4b7c-8e55-3b56bb394d5f"
+authors = ["Artyom91150"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1.9"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
